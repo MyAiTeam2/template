@@ -1,0 +1,35 @@
+{
+    "companyInfo": {
+        "name": "Attorney Search Near Me",
+        "tagline": "Find your next Attorney in seconds!",
+        "foundedYear": "2024",
+        "headquartersLocation": "Las Vegas, Nevada",
+        "websiteUrl": "https:\/\/attorneysearchnearme.com"
+    },
+    "visualIdentity": {
+        "logoUrl": {
+            "primary": "https:\/\/hydroponicshopnearme.com\/logo.png",
+            "favicon": "https:\/\/hydroponicshopnearme.com\/logo.png",
+            "socialShare": "https:\/\/hydroponicshopnearme.com\/logo.png"
+        },
+        "colors": {
+            "background": "#ffffff",
+            "primaryText": "#008f37",
+            "secondaryText": "#666666",
+            "button": "#008f37",
+            "buttonText": "#ffffff"
+        }
+    },
+    "socialMedia": {
+        "facebook": "https:\/\/facebook.com\/yourcompany",
+        "twitter": "https:\/\/twitter.com\/yourcompany",
+        "instagram": "https:\/\/instagram.com\/yourcompany",
+        "linkedin": "https:\/\/linkedin.com\/company\/yourcompany",
+        "youtube": "https:\/\/youtube.com\/c\/yourcompany"
+    },
+    "contactInformation": {
+        "email": "contact@attorneysearchnearme.com",
+        "phone": "7024799941",
+        "address": "5225 Las Vegas Blvd, 89102"
+    }
+}
